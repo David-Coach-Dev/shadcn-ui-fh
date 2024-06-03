@@ -20,6 +20,9 @@
     - [Librerías](#librerías)
     - [Archivos](#archivos)
     - [Componentes](#componentes)
+      - [Accordion](#accordion)
+      - [Alert](#alert)
+      - [Button](#button)
 
 ## Rama Main
 
@@ -89,6 +92,14 @@ npx shadcn-ui@latest add button
 
 ### Componentes
 
+#### Accordion
+
 - [acordeón](https://ui.shadcn.com/docs/components/accordion)
+
+#### Alert
+
 - [alerta](https://ui.shadcn.com/docs/components/alert)
+
+#### Button
+
 - [botón](https://ui.shadcn.com/docs/components/button)
