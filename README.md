@@ -4,7 +4,7 @@
 
 ## Rama Main
 
-Instalación de [Next.js](https://nextjs.org/docs/getting-started/installation) y la estructuración de las carpetas y el [Layout.tsx](https://gist.github.com/Klerith/3949f1c8b884d7101e378dfb668f0f3a) del dashboard para el proyecto.
+Instalación de [Next.js](https://nextjs.org/docs/getting-started/installation), añadiendo la estructuración de las carpetas y el dashboard para el proyecto.
 
 ### Instalación de [Next.js](https://nextjs.org/docs/getting-started/installation)
 
