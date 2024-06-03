@@ -13,6 +13,8 @@
   - [Rama feat/addAccordionComponent](#rama-feataddaccordioncomponent)
     - [Instalación de acordeón](#instalación-de-acordeón)
   - [Rama feat/addAlertComponent](#rama-feataddalertcomponent)
+    - [Instalación de botón](#instalación-de-botón)
+  - [Rama feat/addButtonComponent](#rama-feataddbuttoncomponent)
     - [Instalación de alerta](#instalación-de-alerta)
   - [Enlaces](#enlaces)
     - [Librerías](#librerías)
@@ -51,12 +53,23 @@ npx shadcn-ui@latest add accordion
 
 ## Rama feat/addAlertComponent
 
+Instalación del componente de [botón](https://ui.shadcn.com/docs/components/button) de [Shadcn-ui](https://ui.shadcn.com/) y añadiendo configuraciones necesarias.
+
+### Instalación de [botón](https://ui.shadcn.com/docs/components/button)
+
+```bash
+npx shadcn-ui@latest add alert
+```
+
+## Rama feat/addButtonComponent
+
 Instalación del componente de [alerta](https://ui.shadcn.com/docs/components/alert) de [Shadcn-ui](https://ui.shadcn.com/) y añadiendo configuraciones necesarias.
 
 ### Instalación de [alerta](https://ui.shadcn.com/docs/components/alert)
 
 ```bash
-npx shadcn-ui@latest add alert
+npx shadcn-ui@latest add button
+
 ```
 
 ## Enlaces
@@ -67,6 +80,7 @@ npx shadcn-ui@latest add alert
 - [Shadcn-ui](https://ui.shadcn.com/)
 - [Tailwindcss](https://tailwindcss.com/)
 - [Tailwind Components](https://tailwindcomponents.com/component/tailwind-css-admin-dashboard-layout)
+- [Tailwind Text Color](https://tailwindcss.com/docs/text-color)
 
 ### Archivos
 
@@ -77,3 +91,4 @@ npx shadcn-ui@latest add alert
 
 - [acordeón](https://ui.shadcn.com/docs/components/accordion)
 - [alerta](https://ui.shadcn.com/docs/components/alert)
+- [botón](https://ui.shadcn.com/docs/components/button)
