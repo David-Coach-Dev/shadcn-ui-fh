@@ -18,7 +18,7 @@ npx create-next-app@latest
 
 Instalación de [Shadcn-ui](https://ui.shadcn.com/) y añadiendo configuraciones para el proyecto.
 
-### Instalación de  [Shadcn-ui](https://ui.shadcn.com/docs/installation)
+### Instalación de [Shadcn-ui](https://ui.shadcn.com/docs/installation)
 
 ```bash
 npx shadcn-ui@latest init
