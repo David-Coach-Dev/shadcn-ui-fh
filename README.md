@@ -11,11 +11,13 @@
   - [Rama Shadcn-ui](#rama-shadcn-ui)
     - [Instalación de Shadcn-ui](#instalación-de-shadcn-ui)
   - [Rama feat/addAccordionComponent](#rama-feataddaccordioncomponent)
-    - [Instalación de acordeón](#instalación-de-acordeón)
+    - [Instalación del componente de acordeón](#instalación-del-componente-de-acordeón)
   - [Rama feat/addAlertComponent](#rama-feataddalertcomponent)
-    - [Instalación de botón](#instalación-de-botón)
+    - [Instalación del componente de botón](#instalación-del-componente-de-botón)
   - [Rama feat/addButtonComponent](#rama-feataddbuttoncomponent)
-    - [Instalación de alerta](#instalación-de-alerta)
+    - [Instalación del componente de alerta](#instalación-del-componente-de-alerta)
+  - [Rama feat/addAlertDialogComponent](#rama-feataddalertdialogcomponent)
+    - [Instalación del componente de dialogo de alerta](#instalación-del-componente-de-dialogo-de-alerta)
   - [Enlaces](#enlaces)
     - [Librerías](#librerías)
     - [Archivos](#archivos)
@@ -23,6 +25,7 @@
       - [Accordion](#accordion)
       - [Alert](#alert)
       - [Button](#button)
+      - [Dialogo de alerta](#dialogo-de-alerta)
 
 ## Rama Main
 
@@ -48,7 +51,7 @@ npx shadcn-ui@latest init
 
 Instalación del componente de [acordeón](https://ui.shadcn.com/docs/components/accordion) de [Shadcn-ui](https://ui.shadcn.com/) y añadiendo configuraciones necesarias.
 
-### Instalación de [acordeón](https://ui.shadcn.com/docs/components/accordion)
+### Instalación del componente de [acordeón](https://ui.shadcn.com/docs/components/accordion)
 
 ```bash
 npx shadcn-ui@latest add accordion
@@ -58,7 +61,7 @@ npx shadcn-ui@latest add accordion
 
 Instalación del componente de [botón](https://ui.shadcn.com/docs/components/button) de [Shadcn-ui](https://ui.shadcn.com/) y añadiendo configuraciones necesarias.
 
-### Instalación de [botón](https://ui.shadcn.com/docs/components/button)
+### Instalación del componente de [botón](https://ui.shadcn.com/docs/components/button)
 
 ```bash
 npx shadcn-ui@latest add alert
@@ -68,10 +71,22 @@ npx shadcn-ui@latest add alert
 
 Instalación del componente de [alerta](https://ui.shadcn.com/docs/components/alert) de [Shadcn-ui](https://ui.shadcn.com/) y añadiendo configuraciones necesarias.
 
-### Instalación de [alerta](https://ui.shadcn.com/docs/components/alert)
+### Instalación del componente de [alerta](https://ui.shadcn.com/docs/components/alert)
 
 ```bash
 npx shadcn-ui@latest add button
+
+```
+
+## Rama feat/addAlertDialogComponent
+
+Instalación del componente de [dialogo de alerta](https://ui.shadcn.com/docs/components/alert-dialog) de [Shadcn-ui](https://ui.shadcn.com/) y añadiendo configuraciones necesarias.
+
+### Instalación del componente de [dialogo de alerta](https://ui.shadcn.com/docs/components/alert-dialog)
+
+```bash
+npx shadcn-ui@latest add alert-dialog
+
 
 ```
 
@@ -103,3 +118,7 @@ npx shadcn-ui@latest add button
 #### Button
 
 - [botón](https://ui.shadcn.com/docs/components/button)
+
+#### Dialogo de alerta
+
+- [dialogo de alerta](https://ui.shadcn.com/docs/components/alert-dialog)

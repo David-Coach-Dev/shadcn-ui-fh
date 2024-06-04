@@ -7,6 +7,7 @@ const links = [
   { name: "accordion", href: "accordion" },
   { name: "alert", href: "alert" },
   { name: "button", href: "button" },
+  { name: "alert-dialog", href: "alert-dialog" },
 ].sort((a, b) => a.name.localeCompare(b.name));
 
 export default function DashboardLayout({
